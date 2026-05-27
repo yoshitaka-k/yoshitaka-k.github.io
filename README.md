@@ -8,7 +8,7 @@ Hello!!
 気まぐれに何かアップするかもしれませんし、しないかもしれません。
 
 ## Links
-[Hatena Blog](https://www.ktgw.jp) / [Bluesky](https://yoshitaka0922.bsky.social)
+[Bluesky](https://yoshitaka0922.bsky.social) / [Hatena Blog](https://www.ktgw.jp)
 
 --- 
 © 2026 Yoshitaka-k
