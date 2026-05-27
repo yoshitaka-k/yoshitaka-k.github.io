@@ -1,14 +1,11 @@
-# Profile
-Hello!!
+# yoshitaka-k.github.io
 
-おはこんばんにちは！  
-よしたか です。  
+![GitHub top language](https://img.shields.io/github/languages/top/yoshitaka-k/yoshitaka-k.github.io)
+![Lines of code](https://www.aschey.tech/tokei/github/yoshitaka-k/yoshitaka-k.github.io)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yoshitaka-k/yoshitaka-k.github.io)
+[![License](https://img.shields.io/github/license/yoshitaka-k/yoshitaka-k.github.io)](https://github.com/yoshitaka-k/yoshitaka-k.github.io/blob/main/LICENSE)
 
-しがない元プログラマーです。  
-気まぐれに何かアップするかもしれませんし、しないかもしれません。
+試しに Github Pages 作成なぅ
 
-## Links
-[Bluesky](https://yoshitaka0922.bsky.social) / [Hatena Blog](https://www.ktgw.jp)
-
---- 
-© 2026 Yoshitaka-k
+## License
+[Apache-2.0](https://github.com/yoshitaka-k/yoshitaka-k.github.io/blob/main/LICENSE)
