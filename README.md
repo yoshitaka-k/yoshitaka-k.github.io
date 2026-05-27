@@ -8,5 +8,8 @@ Hello!!
 気まぐれに何かアップするかもしれませんし、しないかもしれません。
 
 ## Links
-[Github](https://github.com/yoshitaka-k) / [Github Pages](https://yoshitaka-k.github.io)  
+[Github Pages](https://yoshitaka-k.github.io)  / [Github](https://github.com/yoshitaka-k)  
 [Hatena Blog](https://www.ktgw.jp) / [Bluesky](https://yoshitaka0922.bsky.social)
+
+##
+© 2026 Yoshitaka-k
