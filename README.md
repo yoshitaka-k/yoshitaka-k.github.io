@@ -10,5 +10,5 @@ Hello!!
 ## Links
 [Hatena Blog](https://www.ktgw.jp) / [Bluesky](https://yoshitaka0922.bsky.social)
 
-## 
+--- 
 © 2026 Yoshitaka-k
